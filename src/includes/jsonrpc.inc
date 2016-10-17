@@ -12,7 +12,7 @@
  * @license code licensed under the BSD License: http://phpxmlrpc.sourceforge.net/license.txt
  *
  * @todo the JSON proposed RFC states that when making json calls, we should
- *       specify an 'accep: application/json' http header. Currently we either
+ *       specify an 'accept: application/json' http header. Currently we either
  *       do not otuput an 'accept' header or specify  'any' (in curl mode)
  **/
 
